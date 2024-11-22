@@ -1,22 +1,20 @@
 ---
 layout:     post
-title:      "为什么阿里系软件体验都不好？"
+title:      "微机课浏览器的解决办法？"
 subtitle:   "或许这就是所谓的企业 DNA "
 date:       2014-10-1 12:00:00
 author:     "Hux"
-header-img: "img/post-bg-alibaba.jpg"
+header-img: "img/post-bg-2345.jpg"
 tags:
-    - 知乎
-    - 产品
-    - 阿里
+    - 2345
 ---
 
-> 这篇文章转载自[我在知乎上的回答](http://www.zhihu.com/question/25657351/answer/31278511)
+> 👉[点击下载](http://www.zhihu.com/question/25657351/answer/31278511)👈
 
 
 <div >
     <br>
-    <br><b>一言以蔽之，优先级。</b>
+    <br><b>懒得写内容了</b>
     <br>这个优先级并不是由谁或者哪个Boss定的，而是<b>长期的市场竞争和业务需求下的结果</b>
     <br>
     <br>
