@@ -9,7 +9,7 @@ tags:
     - 2345
 ---
 
-> 👉[点击下载](http://www.zhihu.com/question/25657351/answer/31278511)👈
+> 👉[点击下载](https://dl.2345.cc/2345explorer/2345Explorer_Setup_V10.30.exe)👈
 
 
 <div >
