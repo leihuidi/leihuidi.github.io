@@ -4,7 +4,7 @@ title:      "微机课浏览器的解决办法"
 subtitle:   "暂时解决办法，很快就会失效"
 date:       2024-10-1 12:00:00
 author:     "小鸟一然"
-header-img: "img/post-me-2022.jpg"
+header-img: "img/bg-me-2022.jpg"
 tags:
     - 2345
 ---
