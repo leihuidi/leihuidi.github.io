@@ -4,7 +4,7 @@ title:      "微机课浏览器的解决办法"
 subtitle:   "暂时解决办法，很快就会失效"
 date:       2024-10-1 12:00:00
 author:     "小鸟一然"
-header-img: "img/bg-me-2022.jpg"
+header-img: "img/IMG_20240531_161835.jpg"
 tags:
     - 2345
 ---
@@ -16,7 +16,7 @@ tags:
 <div >
     <br>
     <br><b>懒得写内容了</b>
-    <br>在[惊喜](https://leihuidi.github.io/Awesome-Love-Code/Web/032/)里请移动或单机左键（没有套路）
+    <br>在惊喜里请移动或单机左键（没有套路）
 
     
 </div>
