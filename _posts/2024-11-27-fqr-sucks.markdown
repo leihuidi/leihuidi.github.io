@@ -1,0 +1,22 @@
+---
+layout:     post
+title:      "微机课浏览器的解决办法"
+subtitle:   "暂时解决办法，很快就会失效"
+date:       2024-10-1 12:00:00
+author:     "小鸟一然"
+header-img: "img/IMG_20240531_161835.jpg"
+tags:
+    - 2345
+---
+
+> 👉[点击下载](https://dl.2345.cc/2345explorer/2345Explorer_Setup_V10.30.exe)👈
+> <br>👉[惊喜](https://leihuidi.github.io/Awesome-Love-Code/Web/032/)👈
+
+
+<div >
+    <br>
+    <br><b>懒得写内容了</b>
+    <br>在惊喜里请移动或单击左键（没有套路）
+
+    
+</div>
