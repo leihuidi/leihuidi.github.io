@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "一个给某人的惊喜"
-subtitle:   "哈哈哈哈哈哈哈哈哈"
+subtitle:   "受不可抗力影响，此页面不得不下线了"
 date:       2024-10-1 12:00:00
 author:     "小鸟一然"
-header-img: "img/fql.jpg"
+header-img: "img/post-bg-2015.jpg"
 tags:
     - fqr
 ---
