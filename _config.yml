@@ -75,7 +75,7 @@ ga_domain: leihuidi.github.io
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "这么内卷，谁不疯啊 <br>┗( ▔, ▔ )┛ "
-sidebar-avatar: https://www.helloimg.com/i/2024/11/24/67425f9e86fe0.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://www.helloimg.com/i/2024/11/28/67485b5535c18.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
